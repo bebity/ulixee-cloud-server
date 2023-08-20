@@ -9,8 +9,8 @@
         "typescript": "^5.1.6"
     },
     "scripts": {
-        "start": "ts-node src/index.ts",
-        "build": "tsc"
+        "start": "ts-node index.ts",
+        "build": "tsc index.ts"
     },
     "devDependencies": {
         "@types/node": "^20.5.1"
